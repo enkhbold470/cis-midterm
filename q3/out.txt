@@ -1,0 +1,20 @@
+Number of lines in in.txt: 25
+Number of letters (a-z, A-Z) in in.txt: 470
+Occurrences of each letter in your first name:
+I: 1 times
+n: 38 times
+k: 2 times
+y: 4 times
+Occurrences of each digit in your mobile number:
+3: 4 times
+3: 4 times
+1: 8 times
+-: 0 times
+3: 4 times
+5: 1 times
+6: 1 times
+-: 0 times
+2: 9 times
+4: 1 times
+7: 1 times
+8: 1 times

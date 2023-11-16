@@ -1,0 +1,25 @@
+Q3. (10 points)
+Write a program that asks the user to enter:
+Intput file name f1name (example in.txt)
+
+Output file name f2name (example out.txt)
+
+Open files f1 and f2.
+
+Check if openning the files is successful.
+
+Read lines from f1.
+
+Write to f2 and screen the number of times each letter of your first name
+(in English) is repeated in the file. 
+
+Write to f2 and screen the number of times each digit in your mobile number is repeated in the file. 
+
+Write to screen and f2 how many lines the file f1 has.
+
+Write to screen and f2 how many letters (a-z, A-Z) the file f1 has.
+
+Close both files.
+
+331-356-2478
+You can use infile1.txt and infile2.txt to test Q2.
